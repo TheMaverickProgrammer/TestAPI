@@ -1,0 +1,15 @@
+define({
+  "title": "Nodejs API Test",
+  "url": "localhost:3000",
+  "name": "nodetest2b",
+  "version": "0.0.1",
+  "description": "",
+  "sampleUrl": false,
+  "apidoc": "0.2.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2015-08-29T02:58:39.947Z",
+    "url": "http://apidocjs.com",
+    "version": "0.13.1"
+  }
+});
